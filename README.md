@@ -22,6 +22,7 @@ Didactic demonstration of the main JavaScripty ES6 conditional structure. Credit
 <h4 align="left"> Switch </h4>
   <img src=".github/demostration_aplication_3.gif">
   <br>
+</div>
 <br>
 
 ## 🚀 Technologies
